@@ -2,6 +2,7 @@
 
 An old gambling script for the [bustadice.com](https://bustadice.com). Please read over and understand the code for yourself as I don't remember how it works. 
 
+![image](https://github.com/8pz/bustadice/assets/70970973/a1d1b2f4-a609-4e71-b803-1f4ad93aa58a)
 
 # Disclaimer
 
