@@ -1,6 +1,6 @@
 # Overview
 
-An old gambling script for [bustadice.com](https://bustadice.com).
+An old gambling script for [bustadice.com](https://bustadice.com). Uses some type of martingale strategy (UNSURE).
 
 ![image](https://github.com/8pz/bustadice/assets/70970973/a1d1b2f4-a609-4e71-b803-1f4ad93aa58a)
 
@@ -35,10 +35,11 @@ If you do not agree with these terms, please do not use the script.
 
 This software is distributed under the terms of the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0). You may obtain a copy of the license at the provided link or in the 'LICENSE' file associated with this repository.
 
-
+Contact me below
 
 - discord @ 123781023
-- tele @ onasn
+- tele @ [onasn](https://t.me/onasn)
 - email @ 123781023@proton.me
+
 
 
